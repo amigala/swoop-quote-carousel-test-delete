@@ -8,4 +8,5 @@ A carousel of quotes.
 - Web experience that can be navigated without a mouse and keyboard
 
 ## Citations
-- [Favicon Generator]()
+- [Favicon Generator](URL)
+- [Sharpie](https://www.fontshare.com/fonts/sharpie)
